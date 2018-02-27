@@ -1,0 +1,15 @@
+{
+  "data":
+  {
+    "attributes": {
+      "enforce": [
+        {
+          "path": "mypolicy.sentinel",
+          "mode": "hard-mandatory"
+        }
+      ],
+      "name": "mypolicy"
+    },
+    "type":"policies"
+  }
+}
