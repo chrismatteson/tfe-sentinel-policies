@@ -5,7 +5,7 @@
       "enforce": [
         {
           "path": "mypolicy.sentinel",
-          "mode": "hard-mandatory"
+          "mode": "soft-mandatory"
         }
       ],
       "name": "mypolicy"
